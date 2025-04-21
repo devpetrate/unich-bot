@@ -4,7 +4,8 @@
   "description": "Unich Auto-Ref Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "extract": "node hotext.js"
   },
   "dependencies": {
     "axios": "^1.8.4",
